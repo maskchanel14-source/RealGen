@@ -8,6 +8,7 @@
 </p>
 
 ## 📰 News
+* **[2026.07.24]**  🎉 RealGen was accepted by **ECCV 2026 Oral**!
 * **[2026.03.13]**  🔥 We have released **RealGen-V2**, introducing a dynamic GAN-inspired online RL paradigm! Check out the **[** [RealGen-V2 Documentation](RealGen_v2/README.md) **]**
 * **[2025.12.02]**  🔥 We have released **RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**. Check out the **[** [Paper](https://arxiv.org/abs/2512.00473);  **]**. 
 
