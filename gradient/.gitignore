@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit / local scratch
+.streamlit/secrets.toml
+temp/
+uploads/
+*.log
+
+# Local detection history (SQLite sidecars; detections.db itself is tracked)
+*.db-journal
+*.db-wal
+*.db-shm
